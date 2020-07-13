@@ -12,3 +12,4 @@ My name is Daniel and I perform as a professional in tech. I am a fan of nature 
   - [Twitter](http://twitter.com/danieeis)
   - [LinkedIn](http://twitter.com/danieeis)
   - [Email](danieldaniyyelda@gmail.com)
+  - [Whatsapp](https://wa.me/message/QK437WLOKMV3O1)
