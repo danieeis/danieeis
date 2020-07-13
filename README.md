@@ -1,16 +1,14 @@
 ### Hi there 👋
+My name is Daniel and I perform as a professional in tech. I am a fan of nature and tranquility, in my free time I usually go on excursions raising my spiritual peace.
 
-<!--
-**danieeis/danieeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on apps dev with Xamarin
+- 🌱 I’m currently learning cloud computing, devops and web development in Platzi, Pluralsight and Microsoft Learn.
+- 👯 I’m looking to collaborate on C# projects and offer my knowledge on the internet
+- 🤔 I’m looking for help with expand my knowledge and work in companies
+- 💬 Ask me about good practices, books and tools to develop. Anyway, ask me whatever.
+- ⚡ Fun fact: My other profession is Petroleum Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+  - [Twitter](http://twitter.com/danieeis)
+  - [LinkedIn](http://twitter.com/danieeis)
+  - [Email](danieldaniyyelda@gmail.com)
